@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import FloatingCubes from './components/FloatingCubes';
 
 export const metadata: Metadata = {
-  title: 'Portfolio - Portfolio',
+  title: 'Sadhwin Arram | Portfolio',
   description: 'Interactive portfolio with smooth animations and dynamic pages',
 };
 
