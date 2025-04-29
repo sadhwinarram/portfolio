@@ -32,7 +32,7 @@ const experiences = [
     logo: "/logos/infor.png",
     location: "Hyderabad, India",
     role: "Software Developer",
-    duration: "Jul 2019 – Dec 2022",
+    duration: "Jul 2019 – Dec 2021",
     techStack: ["Java", "LPL", "Angular", "Oracle", "MySQL", "REST API"],
     points: [
       "Built Angular widgets and Java-based features for HCM applications",
