@@ -24,11 +24,10 @@ export default function RootLayout({
         <FloatingCubes />
         <Navbar />
         <main>{children}</main>
-        <footer className="text-center text-xs text-gray-500 mt-10 mb-6">
+        <footer className="text-center text-xs text-gray-500 mt-2 mb-6">
   Built with 💙 using Next.js, Tailwind CSS & Framer Motion. Hosted on Vercel at{" "}
   <a href="https://www.sadhwinarram.com" className="underline text-blue-400">sadhwinarram.com</a>
 </footer>
-
       </body>
     </html>
   );
